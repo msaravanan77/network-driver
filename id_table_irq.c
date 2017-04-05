@@ -8,8 +8,8 @@
 
 
 static DEFINE_PCI_DEVICE_TABLE(my_table) = {
-	{PCI_DEVICE(0x8086, 0x100e)},
-	{}
+	{PCI_DEVICE(0x8086, 0x100e)},	//Device Vendor and device ID
+	{}		//Terminating Entry
 };
 
 MODULE_DEVICE_TABLE(pci, my_table);
