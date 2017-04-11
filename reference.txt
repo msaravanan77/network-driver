@@ -4,3 +4,6 @@ Raw socket program
 Agile
   https://www.simplilearn.com/agile-and-scrum/agile-and-scrum-certification-training
   
+Hackerrank question next:
+  https://www.hackerrank.com/challenges/diagonal-difference?h_r=next-challenge&h_v=zen
+  
