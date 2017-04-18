@@ -1,3 +1,6 @@
+18/04/2017
+setting the breakpoint using break (br) instead I have to use hbreak(hb) hardware assisted breakpoint.
+
 Raw socket program  
   https://gist.githubusercontent.com/austinmarton/1922600/raw/abab5894b8b33e12108dc7eec866e131c11aa0d6/sendRawEth.c
   https://austinmarton.wordpress.com/2011/09/14/sending-raw-ethernet-packets-from-a-specific-interface-in-c-on-linux/
