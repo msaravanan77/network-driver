@@ -1,3 +1,20 @@
+20/04/2017
+Task05/udev rule to load module automatically
+
+# See if there is already some information available when you insert it
+dmesg | head -n 20
+
+# See what information is available to udev
+/sbin/udevadm info --query=all [--name=<device path>] [--path=<sysfs path>]
+
+# or query the whole database of devices plugged into udev and export it to a file
+/sbin/udevadm info --export-db > /path/to/export.txt
+
+-> How to write a udev rule
+http://hackaday.com/2009/09/18/how-to-write-udev-rules/
+
+
+
 18/04/2017
 setting the breakpoint using break (br) instead I have to use hbreak(hb) hardware assisted breakpoint.
 
