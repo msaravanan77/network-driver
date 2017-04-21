@@ -1,3 +1,21 @@
+21/04/2016
+Kernel debugging
+KGDB setup
+  http://opensourceforu.com/2011/03/kgdb-with-virtualbox-debug-live-kernel/
+CRASH Your System (and Debug Kernel Panic)
+  http://opensourceforu.com/2011/02/debug-kernel-panics-with-crash/
+Understanding a Kernel Oops!
+  http://opensourceforu.com/2011/01/understanding-a-kernel-oops/
+Kernel Tracing with ftrace, Part 2
+  http://opensourceforu.com/2010/12/kernel-tracing-with-ftrace-part-2/
+Kernel Tracing with ftrace, Part 1
+  http://opensourceforu.com/2010/11/kernel-tracing-with-ftrace-part-1/
+Debugging the Linux Kernel with debugfs
+  http://opensourceforu.com/2010/10/debugging-linux-kernel-with-debugfs/
+Linux Kernel Development Using Git
+http://opensourceforu.com/2011/05/linux-kernel-development-using-git/
+
+
 20/04/2017
 Task05/udev rule to load module automatically
 
