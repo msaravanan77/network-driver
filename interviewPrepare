@@ -1,4 +1,41 @@
 Interview prepare reference links
+FUNCTION POINTER
   http://embedded-thoughts.blogspot.in/
   http://embedded-thoughts.blogspot.in/2013/05/function-pointers-and-callbacks-in-c.html
+Pointer and array quick differences/tricks
+  http://www.geeksforgeeks.org/difference-pointer-array-c/
+REFRESH THESE WHOLE LIST  
+  http://www.geeksforgeeks.org/c/
   
+Pointer challenge
+  https://blogs.oracle.com/ksplice/the-ksplice-pointer-challenge
+gdb quick tips/tricks:
+  https://blogs.oracle.com/ksplice/8-gdb-tricks-you-should-know
+
+  1.Break point occurs only when condition meets 
+      (gdb) b context_switch if next==init_task
+  2. execute commands when breakpoint met
+      (gdb) b do_mmap_pgoff
+      (gdb) command 1
+          > print addr
+          > print len
+          > end
+      (gdb)
+  3. run with arguments
+      #gdb --args ./a.out <args1> <args2> 
+  4. by default gdb won't print and find any macros. but inline works always.
+      but, to print macros use #expand macro
+      (gdb) macro expand
+  5. x/FMT ADDRESS
+      FMT has 3 parameters
+          COUNT                     Number of address to be printed
+          Single character FORMAT   x-hex, d-signed int, c-char, i-instruction, s-string
+          Single character SIZE     b-byte, h-half word, w-word, g-gaint
+
+    Ex: x/10xw <ADDRESS>
+
+  
+  
+INDEX page of ksplice challenge:
+  https://blogs.oracle.com/ksplice/programming
+
