@@ -1,4 +1,8 @@
-22/04/2016
+25/04/2017
+The TCP/IP Stack in the Linux Kernel 
+  https://www.slideshare.net/divyekapoor/linux-tcp-ip-presentation
+
+22/04/2017
 Path of a packet in Linux kernel stack – Part 1
   https://blogchiasekienthuc.wordpress.com/2016/06/23/path-of-a-packet-in-linux-kernel-stack-part-1/
 Linux networking stack from the ground up, part 1
@@ -13,7 +17,7 @@ Monitoring and Tuning the Linux Networking Stack: Receiving Data
   
   
 
-21/04/2016
+21/04/2017
 Kernel debugging
 KGDB setup
   http://opensourceforu.com/2011/03/kgdb-with-virtualbox-debug-live-kernel/
@@ -54,6 +58,7 @@ setting the breakpoint using break (br) instead I have to use hbreak(hb) hardwar
 Raw socket program  
   https://gist.githubusercontent.com/austinmarton/1922600/raw/abab5894b8b33e12108dc7eec866e131c11aa0d6/sendRawEth.c
   https://austinmarton.wordpress.com/2011/09/14/sending-raw-ethernet-packets-from-a-specific-interface-in-c-on-linux/
+  http://www.tenouk.com/Module43a.html  (RAW UDP/TCP CODE)
 Agile
   https://www.simplilearn.com/agile-and-scrum/agile-and-scrum-certification-training
   
