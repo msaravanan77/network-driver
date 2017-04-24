@@ -1,0 +1,3 @@
+Compile the kernel with debug symbol enabled from command line option
+  7608  time make KCFLAGS=-ggdb3 -j8 1> out.log
+
