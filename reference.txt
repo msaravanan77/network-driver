@@ -5,6 +5,12 @@ Linux networking stack from the ground up, part 1
   https://www.privateinternetaccess.com/blog/2016/01/linux-networking-stack-from-the-ground-up-part-1/
 Google search string (For network packet walkthrough/walkthrough)
   https://www.google.co.in/search?q=network+packet+walkthrough+linux+network+subsystem&spell=1&sa=X&ved=0ahUKEwiB8_-TvrjTAhXDPI8KHaFFAxoQvwUIISgA#q=packet+walkthrough++part+1+%2Bsoftirq
+Monitoring and Tuning the Linux Networking Stack: Receiving Data
+    https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/
+    Few handwritten diagrams to explain the above described code.
+        https://blog.packagecloud.io/eng/2016/10/11/monitoring-tuning-linux-networking-stack-receiving-data-illustrated/
+  
+  
   
 
 21/04/2016
