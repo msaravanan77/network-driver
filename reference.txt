@@ -1,3 +1,9 @@
+28/04/2017
+Journey to the stack Part 1
+  http://duartes.org/gustavo/blog/post/journey-to-the-stack/
+Light-Weight Processes: Dissecting Linux Threads
+  http://opensourceforu.com/2011/08/light-weight-processes-dissecting-linux-threads/
+
 25/04/2017
 The TCP/IP Stack in the Linux Kernel 
   https://www.slideshare.net/divyekapoor/linux-tcp-ip-presentation
