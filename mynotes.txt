@@ -1,3 +1,6 @@
 Compile the kernel with debug symbol enabled from command line option
   7608  time make KCFLAGS=-ggdb3 -j8 1> out.log
 
+python -c 'print "A"*8191' > /sys/kernel/debug/eudyptula/foo
+python -c 'print "A"*8192' > /sys/kernel/debug/eudyptula/foo
+
