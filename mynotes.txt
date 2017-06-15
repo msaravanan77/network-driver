@@ -1,3 +1,11 @@
+
+You can't de-optimize the kernel. You might be able to de-optimize certain functions, like this:
+void __attribute__((optimize("O0"))) foo(unsigned char data) {
+    // unmodifiable compiler code
+}
+But the kernel as a whole requires -O2 because the code itself is written with assumptions that certain functions will be optimized in a certain way.
+
+
 Compile the kernel with debug symbol enabled from command line option
   7608  time make KCFLAGS=-ggdb3 -j8 1> out.log
 
